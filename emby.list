@@ -13,3 +13,10 @@ DOMAIN-SUFFIX,yusen.cyou
 DOMAIN-SUFFIX,yusen.cc.cd
 # 乐蛙
 DOMAIN-SUFFIX,taotu.ink
+# 夏天emby
+# 线路一
+DOMAIN-SUFFIX,cf.maodu.xyz
+# 线路五 六
+DOMAIN-SUFFIX,cfsw.maodu.xyz
+# 线路七 （联通直连可挂梯加速）
+DOMAIN-SUFFIX,cflt.maodu.xyz
