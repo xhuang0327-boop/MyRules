@@ -11,3 +11,11 @@ DOMAIN-SUFFIX,yusen6.ccwu.cc
 DOMAIN-SUFFIX,yusen.us.ci
 DOMAIN-SUFFIX,yusen.cyou
 DOMAIN-SUFFIX,yusen.cc.cd
+
+# 夏天emby
+# 线路二 （三网直连-挂梯子效果不好）
+DOMAIN-SUFFIX,2024.yingpanfu.top
+# 线路三 （三网直连-不可以挂梯子）
+DOMAIN-SUFFIX,104.250.151.198
+# 线路四 （三网直连-挂梯子效果不好）
+DOMAIN-SUFFIX,107.181.228.246
