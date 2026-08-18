@@ -23,3 +23,9 @@ DOMAIN-SUFFIX,cf.maodu.xyz
 DOMAIN-SUFFIX,cfsw.maodu.xyz
 # 线路七 （联通直连可挂梯加速）
 DOMAIN-SUFFIX,cflt.maodu.xyz
+
+# 守候
+# 推荐日美
+DOMAIN-SUFFIX,cn2gias.uk
+# 可尝试直连
+DOMAIN-SUFFIX,array2026.cc
