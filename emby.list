@@ -46,3 +46,7 @@ DOMAIN-SUFFIX,emby.kingemby.com
 # 茶百道
 DOMAIN-SUFFIX,emby.teawaya.com
 DOMAIN-SUFFIX,emby.7s.l.cd
+
+# 非越
+DOMAIN-SUFFIX,cf.sfcj.org
+DOMAIN-SUFFIX,media.emby.pro
